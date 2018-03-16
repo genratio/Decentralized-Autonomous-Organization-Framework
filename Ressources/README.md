@@ -1,0 +1,1 @@
+Here we can collect and discuss the all needed Ressources like which Blockchain fits with which server-os. Also wikis and tutorials are welcome. The goal is, that everyone contributing to this repo/project could have the same overview. 
